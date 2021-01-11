@@ -1,0 +1,12 @@
+como se puede ver en la imagen con el mismo nombre la configuracion es la siguiente:
+plantilla web(APACHE2)
+default
+lantilla proxy(NGINEX)
+default
+
+
+para configurar el root de la web y el proxy se modifican los archivos default 
+de en la siguiente direccion:
+
+cd usr/local/vesta/data/templates/web/nginx
+
